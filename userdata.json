@@ -16,5 +16,11 @@
         "key": "tasbirvip",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "68e6c6ae1dfd475f",
+        "key": "JENAL88T9FD",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
