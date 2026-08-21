@@ -15,12 +15,18 @@
         "device_id": "3e8d02df5c2fd120",
         "key": "tasbirvip",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "68e6c6ae1dfd475f",
         "key": "JENAL88T9FD",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9686b23e035a650c",
+        "key": "RANICANTIKTD9FC",
+        "expirydate": "15-06-2027",
+        "Allowoffline": true
     }
 ]
