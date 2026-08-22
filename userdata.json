@@ -28,5 +28,11 @@
         "key": "RANICANTIKTD9FC",
         "expirydate": "15-06-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "FC0029D6B57E0A4A",
+        "key": "tasbirmodz",
+        "expirydate": "22-12-2026",
+        "Allowoffline": true
     }
 ]
