@@ -40,5 +40,11 @@
         "key": "D2N",
         "expirydate": "22-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "12c48dc7ee711b71",
+        "key": "CHOUMEL",
+        "expirydate": "22-12-2026",
+        "Allowoffline": true
     }
 ]
